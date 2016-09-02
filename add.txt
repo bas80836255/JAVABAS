@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 basnaja1234
+=======
+basnaja
+
+hello
+>>>>>>> 7c5587310a88f8cedde0bab5f935a914498e90a8
